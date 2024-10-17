@@ -1,0 +1,9 @@
+1)Create a base class fruit whuch has name taste and size as its attribute. A method eat() is created which describes the name of the fruit and its taste. inherit the same in 2 other classes Apple and Oranges and overide the eat() method to represtent each fruit taste.
+
+2)Write a java program to create class named shape. it should contain one method, area() that prints area of the shape. For this class create two sub class Triangle and Rectangle and each class should overrride the parent class function area(). Create object of triangle and rectangle to observer the polymorphic nature of class.
+
+3)Write a java program to develop calculator application (add , subtract multiplication and division) using multiple inheritance
+
+4)write a java class to implement concept of abstract class and abstract method.
+
+5)Write a java program to create user defined package and comnatining employees class (EID, Ename,Eaddress and salary) and use this package in another class or package
